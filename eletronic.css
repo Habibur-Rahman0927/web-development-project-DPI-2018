@@ -1,0 +1,175 @@
+
+
+#header{
+	margin-top: -27px;
+}
+
+
+
+
+
+#home {
+  background-image: url("img/Download.jpg");
+  background-position: 100% 100%;
+  background-size: 100% 100%;
+  display: inline;
+  float: left;
+  height: 420px;
+  position: relative;
+  width: 100%;
+  margin-top: -25px;
+}
+
+#home .overlay-section {
+  background: rgba(0, 0, 0, 0.7) none repeat scroll 0 0;
+  height: 100%;
+  width: 100%;
+}
+
+
+.home-inner {
+  display: inline;
+  float: left;
+  padding: 57px 100px;
+  text-align: center;
+  position: relative;
+  width: 100%;
+}
+.home-inner p{
+	color: #fff;
+}
+
+.home-title{
+  color: #fff;
+  font-size: 72px;
+  font-weight: 700;
+  margin-bottom: 15px;
+  text-transform: uppercase;
+}
+/*Newly edited*/
+.home-title span{
+  color: #26a69a;
+}
+
+.btn, .btn-large {
+  background-color: #26a69a;
+  color: #fbfbfb;
+}
+
+.call-to-about i {
+ color: #26a69a;
+}
+
+.pro-bar.color-amethyst {
+background-color: #26a69a;
+}
+.material-icons{
+	margin-top: 50px;
+}
+
+
+
+.head-100 {
+	width: 100%;
+	padding: 52px 0px 128px 0px;
+	 background:linear-gradient(to right,    #0B6C63,#00e6e6);
+	float: left;
+	display: block;
+	margin-top: -3px;
+
+}
+.head-100 h1 {
+	font-size: 30px;
+	line-height: 20px;
+	margin-bottom: 40px;
+	letter-spacing: 0.5px;
+	text-align: center;
+	color: #fff;
+	font-weight: 2500;
+	text-transform: uppercase;
+
+}
+.head-100 p {
+	width: 60%;
+	margin: 0 auto;
+	text-align: center justify;
+	line-height: 20px;
+	color: #fff;
+	font-size: 17px;
+	letter-spacing: 0.5px;
+	margin-bottom: 25px;
+
+}
+
+
+.title-1 h1{
+	text-align: center;
+	text-transform: uppercase;
+	top: 20px;
+
+}
+.title-2 p{
+	width: 80%;
+	margin: 0 auto;
+	text-align: center justify;
+	line-height: 23px;
+	color: #000;
+	font-size: 13px;
+	letter-spacing: 0.5px;
+	margin-bottom: 20px;
+}
+
+.pic img{
+	margin-left: 500px;
+}
+
+
+.job-12 {
+	width: 100%;
+	padding: 100px 0 90px 0;
+	background : linear-gradient(#fff,#D0F3F0 ,#90F1E4 );
+	background-size: cover;
+	float: left;
+	clear: both;
+}
+.job-12 h2 {
+	font-size: 32px;
+	line-height: 19px;
+	margin-bottom: 50px;
+	letter-spacing: 0.5px;
+	text-align: center;
+	color: #000;
+	font-weight: 2500;
+	text-transform: uppercase;
+
+}
+.job-12 p {
+	width: 80%;
+	margin: 0 auto;
+	text-align: center justify;
+	line-height: 23px;
+	color: #000;
+	font-size: 13px;
+	letter-spacing: 0.5px;
+	margin-bottom: 20px;
+
+}
+
+
+
+
+
+
+.com {
+	width: 100%;
+	font-size: 17px;
+	color: #fff;
+	float: left;
+	padding: 17px 0px;
+	text-align: center;
+	line-height: 8px;
+	background:linear-gradient(45deg,red 60%,blue 60%);
+	text-transform: uppercase;
+
+}
+

@@ -1,0 +1,144 @@
+body{
+	margin: 0;
+	padding: 0;
+	margin-left: 500px;
+	margin-top: 50px;
+	background-image: linear-gradient(to right, #C34A2C,#56A5EC);
+	background-size: cover;
+	background-position: center;
+	font-family: sans-serif;
+}
+.high-light{
+	border: none;
+	background: linear-gradient(to left, #C35617,#82CAFF);
+	border-top-left-radius: 20% 50%;
+	border-bottom-right-radius: 20% 50%;
+	margin-right:200px;
+	margin-left: -270px;
+}
+.run1 {
+	margin-left: 290px;
+	color: #fff;
+	margin-bottom: -28px;
+	
+}
+.run2 {
+	margin-left: 290px;
+	color: #fff;
+	margin-bottom: -17px;
+}
+.run3 {
+	margin-left: 290px;
+	color: #fff;
+	margin-bottom: -17px;
+}
+.run4{
+	margin-left: -79px;
+	color: #fff;
+	margin-bottom: -17px;
+}
+.run5{
+	margin-left: -79px;
+	color: #fff;
+	margin-bottom: -17px;
+}
+h5{
+	color: #fff;
+	margin-top: -16px;
+	margin-left: 24px;
+}
+.sub{
+	height: 30px;
+	width: 230px;
+	margin-left: 370px;
+	margin-bottom: 30px;
+}
+.rl1{
+	height: 25px;
+	width: 230px;
+	margin-left: 370px;
+	margin-top: 15px;
+}
+.rl2{
+	height: 25px;
+	width: 230px;
+	margin-left: 370px;
+
+}
+.rl3 {
+	height: 25px;
+	width: 230px;
+	margin-left: 370px;
+}
+.rl4 {
+	margin-left: 370px;
+}
+
+.sltall {
+	height: 25px;
+	margin-left: 370px;
+}
+h1{
+	color: #fff;
+	margin-bottom: 60px;
+	text-transform: uppercase;
+	height: 50px;
+	letter-spacing: 2px;
+	margin-left: 50px;
+}
+.sam{
+	margin-left: 370px;
+}
+.samna{
+	margin-left: 370px;
+}
+
+nav ul{
+	margin-top: 5px;
+	list-style: none;
+	display: inline-block;
+	margin-left: 50px;
+}
+nav ul li{
+	float: left;
+	width: 200px;
+	height: 41px;
+	background-color: none;
+	opacity: .8;
+	line-height: 40px;
+	text-align: center;
+	font-size:15px;
+	margin-right: 3px;
+
+
+}
+nav ul li a{
+	text-decoration: none;
+	color: black;
+	display: block;
+	border: 1px solid #348781;
+	transition: 0.8s ease;
+	font-size: 15px;
+	letter-spacing: 0.5px;
+	text-transform: uppercase;
+	border-radius: 25px;
+
+
+}
+nav ul li a:hover{
+	background-color: #307D7E;
+	box-shadow: inset 200px 0px 0px 0px #41627E;
+}
+nav ul li ul li{
+	display: none;
+	margin-left: -90px;
+}
+nav ul li ul li a{
+	margin-top: -7px;
+}
+nav ul li:hover ul li{
+	display: block;
+}
+.menu{
+	margin-left: -530px;
+}
